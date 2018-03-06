@@ -1,4 +1,4 @@
-def reverse_each_word_each(word)
+def reverse_each_word_each_method(word)
  word.reverse.split.reverse.join(" ")
 end
 
